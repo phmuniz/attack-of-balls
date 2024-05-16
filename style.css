@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    margin: 0;
+    font-size: 1em;
+    background: #9932CC url(assets/background-site.png);
+}
+
+#top {
+    display: flex;
+    height: 100px;
+    width: 100%;
+    background-color: black;
+    color: aliceblue;
+    justify-content: center;
+    font-size: 2em;
+    margin-bottom: 50px;
+    align-items: center;
+}
